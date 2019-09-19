@@ -32,5 +32,8 @@ public class Oddities {
                 }
             }
         }
+        sc.close();
     }
 }
+
+
