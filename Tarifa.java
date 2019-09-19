@@ -1,4 +1,8 @@
-/* Define the variables.
+/* Author:
+Kevin Foong
+
+Method:
+Define the variables.
 find and add the remainders every month
 display the remainders + X.
 
