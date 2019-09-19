@@ -1,6 +1,6 @@
 # Kattisprojects
 
-A collection of my open.kattis.com attempts :)
+Just sharing my attempted Kattis challenges. :)
 
 Yours truly, 
 Kevin Foong
