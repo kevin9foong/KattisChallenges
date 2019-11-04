@@ -1,6 +1,6 @@
 # Kattisprojects
 
-Just sharing the solutions to my attempted Kattis challenges(a portal of coding related challenges from various qualifiers/competitions etc etc) :)
+My solutions to the Kattis coding competition portal. 
 
 DRM: encrypts any input based on the specialised DRM encryption method in the challenge. Divide, rotate and merge. 
 
@@ -15,7 +15,7 @@ Tarifa: Calculates the number of gb of data one has left after N+1 months, provi
 
 Oddity: Displays whether a number input is odd/even.
 
-Woodcutting: Alberta Collegiate Programming Contest 2016(3.1 diff/medium)
+Woodcutting: Alberta Collegiate Programming Contest 2016(3.1 diff/medium) attempted 04/11/19
 
 Yours truly, 
 Kevin Foong
