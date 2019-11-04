@@ -15,5 +15,7 @@ Tarifa: Calculates the number of gb of data one has left after N+1 months, provi
 
 Oddity: Displays whether a number input is odd/even.
 
+Woodcutting: Alberta Collegiate Programming Contest 2016(3.1 diff/medium)
+
 Yours truly, 
 Kevin Foong
