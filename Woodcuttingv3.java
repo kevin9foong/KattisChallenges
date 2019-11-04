@@ -1,3 +1,6 @@
+/* Errors made: make sure that the variable primitive type value range is within the range of the given primitive type, aka using long
+instead of int for large ranges of values */
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
