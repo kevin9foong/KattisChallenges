@@ -2,14 +2,13 @@
 
 My solutions to the Kattis portal coding competition problem sets: 
 
-Woodcutting: 
+	Woodcutting: 
 https://open.kattis.com/problems/woodcutting (attempted: 04/11/19)
-DRM: 
+	DRM: 
 https://open.kattis.com/problems/drmmessages
-Tarifa:
+	Tarifa:
 https://open.kattis.com/problems/tarifa
-Oddity: 
+	Oddity: 
 https://open.kattis.com/problems/oddities
 
-Yours truly, 
-Kevin Foong
+Made by, Kevin Foong
