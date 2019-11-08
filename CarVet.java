@@ -1,3 +1,5 @@
+/* Warning: this answer is incomplete and works till test case 11. */
+
 import java.util.LinkedList;
 import java.util.Scanner;
 
