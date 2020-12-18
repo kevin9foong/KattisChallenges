@@ -18,4 +18,4 @@ Oddity:
 https://open.kattis.com/problems/oddities
 
 
-Made by, Kevin Foong
+Kevin Foong
